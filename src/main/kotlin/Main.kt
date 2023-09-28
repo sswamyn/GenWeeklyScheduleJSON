@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
     // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
     println("Program arguments: ${args.joinToString()}")
 
-    val fileNameStr = "src/main/resources/TrainingScheduleDefinitionscopy.csv"
+    val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy.csv"
     //val fileName = fileNameStr.toPath()
     val file = File(fileNameStr)
 
