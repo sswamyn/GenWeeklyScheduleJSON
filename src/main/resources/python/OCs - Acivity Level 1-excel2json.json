@@ -1,0 +1,8762 @@
+[
+    {
+        "Week": 1.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 30 mins - 2 SETS | 6 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "200 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 6.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37349.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "25/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 4 SETS | 3 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 4.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 4.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 4.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 4.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 4.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 4.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 2.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 30 min - 2 SETS | 7 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "200 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 7.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37349.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "25/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 4 SETS | 4 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 4.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 4.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 4.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 4.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 4.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 4.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 3.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 30 min - 2 SETS | 8 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 2.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 8.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37349.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "25/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 4 SETS | 5 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 4.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 4.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 4.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 4.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 4.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 4.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 4.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 30 min - 2 SETS | 10 REPS , PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37349.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "25/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 5 SETS | 3 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 5.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 5.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 5.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 5.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 5.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 5.0,
+        "Reps": 3.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 0.0,
+        "Reps": ""
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 5.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 2 SETS | 12 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "45 sec/30 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37349.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "25/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 5 SETS | 4 REPS , Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 5.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 5.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 5.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 5.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 5.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 5.0,
+        "Reps": 4.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 1-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 36894.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39672.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38482.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "20 sec/35 sec/20 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 0.0,
+        "Reps": ""
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 6.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - Run 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 45 min - 2 SETS | 14 REPS , PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 2.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 39792.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "35/30/25"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 5 SETS | 5 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 5.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 5.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 5.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 5.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 5.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 5.0,
+        "Reps": 5.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 7.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - Run 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 45 min - 2 SETS | 16 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 2.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 39792.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "35/30/25"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 3 SETS | 12 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 3.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 3.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 3.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 12.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 8.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - Run 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 45 min - 2 SETS | 18 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 39792.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "35/30/25"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 3 SETS | 14 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 3.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 3.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 3.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 14.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 9.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - Run 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 45 min - 2 SETS | 20 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 39792.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "35/30/25"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 3 SETS | 18 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 3.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 3.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 3.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 18.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 10.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - Run 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 45 min -2 SETS | 20 REPS , PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 4.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "60 sec/45 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 39792.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "35/30/25"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 3 SETS | 20 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 3.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 3.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 3.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 5-25 REPS, Cardio - 45 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": "15/20/15"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "20/25/20"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 40463.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "45 sec/60 sec/60 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 41258.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 11.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 3-15 REPS, Cardio - Run 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37685.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "25 sec/30 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 3-15 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37685.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "25 sec/30 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 30 min - 2 SETS | 10 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 2.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 20.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "30 sec/25 sec/15 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "30 sec/25 sec/15 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38143.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "20/15/10"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 2 SETS | 10 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 3-15 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37685.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "25 sec/30 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": 12.0,
+        "Day": 1.0,
+        "Description": "Body Weight Circuit - 3 SETS | 3-15 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37685.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "25 sec/30 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 2.0,
+        "Description": "Body Weight Circuit - 3 SETS | 3-15 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37685.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "25 sec/30 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 3.0,
+        "Description": "Cardio Circuit - 30 min - 2 SETS | 10 REPS, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio Circuit",
+        "Section Type": 8.0,
+        "Activity": "Plyometric-Jumps",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Mountain-Climbers",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Sprint",
+        "Sets": 2.0,
+        "Reps": "400 Meters"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Star-Jumps",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Bicycle-Crunches",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 13.0,
+        "Activity": "Ammo-Can-Sprint",
+        "Sets": 3.0,
+        "Reps": "30 sec/25 sec/15 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 6.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": "30 sec/25 sec/15 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 38143.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 5.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": "20/15/10"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 4.0,
+        "Description": "Strength Circuit - 2 SETS | 10 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Strength Circuit",
+        "Section Type": 8.0,
+        "Activity": "Goblet-Squat",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Kettlebell-Swing",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Push-Press",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 2.0,
+        "Reps": 10.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": 5.0,
+        "Description": "Body Weight Circuit - 3 SETS | 3-15 REPS, Cardio - 30 min, PFT Training",
+        "Section": "Warm Up",
+        "Section Type": 1.0,
+        "Activity": "Warm-up",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Body weight circuit",
+        "Section Type": 8.0,
+        "Activity": "Push-Ups",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Knees-To-Chest",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Air-Squats",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": 37685.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Alt-Knee-To-Elbow",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Box-Jumps",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Tricep-Dips",
+        "Sets": 3.0,
+        "Reps": 39670.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Crunches",
+        "Sets": 3.0,
+        "Reps": 40466.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Lunges",
+        "Sets": 3.0,
+        "Reps": 38480.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Elbow-To-Hand-Plank",
+        "Sets": 3.0,
+        "Reps": 38478.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Planks",
+        "Sets": 3.0,
+        "Reps": "25 sec/30 sec/30 sec"
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "",
+        "Section Type": 8.0,
+        "Activity": "Burpees",
+        "Sets": 3.0,
+        "Reps": 38876.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cardio",
+        "Section Type": 9.0,
+        "Activity": "Cardio",
+        "Sets": 1.0,
+        "Reps": 1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "PFT Training",
+        "Section Type": 4.0,
+        "Activity": "Pull-Ups",
+        "Sets": 3.0,
+        "Reps": -1.0
+    },
+    {
+        "Week": "",
+        "Day": "",
+        "Description": "",
+        "Section": "Cool Down",
+        "Section Type": 2.0,
+        "Activity": "Cool-down",
+        "Sets": 1.0,
+        "Reps": 1.0
+    }
+]
