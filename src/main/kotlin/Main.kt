@@ -6,6 +6,7 @@ import mu.KotlinLogging
 
 var currentLine = 0
 var excelSheet = mutableListOf<String>()
+val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy.csv"
 private val logger = KotlinLogging.logger {}
 
 fun main(args: Array<String>) {
@@ -17,16 +18,11 @@ fun main(args: Array<String>) {
     // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
     println("Program arguments: ${args.joinToString()}")
 
-    val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy.csv"
-    //val fileName = fileNameStr.toPath()
-    val file = File(fileNameStr)
-    for (line in file.readLines()) {
-        logger.debug { "Line read : $line"  }
-        excelSheet.add(line)
-    }
-    logger.debug { "Numbers of lines read from $fileNameStr in to the list is ${excelSheet.size}" }
+    // Call readFile()  to read the file and popuplate the mutable ArrayList
+    readFile()
 
-
+    //var fullScheduleData is the main output in the form of a Java object;
+    //    Next Step(Final): Convert this to a JSON object
     var fullScheduleData: Array<aWeekScheduleData> = emptyArray()
 
     // read file line by line
@@ -156,6 +152,14 @@ fun createExcelRowData(aLine: String): ExcelRowData {
     return excelRowReturnvalue
 }
 
+fun readFile() {
+    val file = File(fileNameStr)
+    for (line in file.readLines()) {
+        logger.debug { "Line read : $line"  }
+        excelSheet.add(line)
+    }
+    logger.debug { "Numbers of lines read from $fileNameStr in to the list is ${excelSheet.size}" }
+}
 
 // ******************
 // Parking lot; Can be removed later
