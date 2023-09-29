@@ -5,6 +5,7 @@ import java.io.File
 import mu.KotlinLogging
 
 var currentLine = 0
+var excelSheet = mutableListOf<String>()
 private val logger = KotlinLogging.logger {}
 
 fun main(args: Array<String>) {
@@ -19,18 +20,28 @@ fun main(args: Array<String>) {
     val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy.csv"
     //val fileName = fileNameStr.toPath()
     val file = File(fileNameStr)
+    for (line in file.readLines()) {
+        logger.debug { "Line read : $line"  }
+        excelSheet.add(line)
+    }
+    logger.debug { "Numbers of lines read from $fileNameStr in to the list is ${excelSheet.size}" }
+
 
     var fullScheduleData: Array<aWeekScheduleData> = emptyArray()
 
     // read file line by line
-    file.forEachLine {
-        val aLine = it
+    //file.forEachLine {
+    //for (aLine in excelSheet) {
+    val excelSheetIterator = excelSheet.listIterator()
+    for ((index, aLine) in excelSheetIterator.withIndex()) {
         currentLine++
+        logger.debug { "CurrentLine is: $currentLine \t Index: $index \t\t Value is: $aLine" }
 
         logger.info { "Read the first line; \t Current line: $currentLine" }
         val oneExcelRow: ExcelRowData = createExcelRowData(aLine)
+        logger.debug { " Index of list (excelSheet) is $index " }
         logger.info { "Got the first row tokenized \t oneExcelRow: $oneExcelRow" }
-        val rowsForThisWeek: Array<ExcelRowData> = getExcelRowDataForThisWeek(oneExcelRow.weekToken, file)
+        val rowsForThisWeek: Array<ExcelRowData> = getExcelRowDataForThisWeek(oneExcelRow.weekToken, excelSheetIterator)
 
         var oneWeek: aWeekScheduleData = aWeekScheduleData(oneExcelRow.lineId, oneExcelRow.weekToken, emptyArray())
         oneWeek.dayArray = createAWeekScheduleData(oneExcelRow.weekToken, rowsForThisWeek)
@@ -100,38 +111,8 @@ fun createAWeekScheduleData(weekToken: String, rowForThisWeek: Array<ExcelRowDat
     return aDayArray
 }
 
-fun getDayArrayForThisWeek(weekToken: String, dayToken: String, file: File): Array<aDayScheculeData> {
-    var dayArray: Array<aDayScheculeData> = emptyArray()
-    file.forEachLine {
-        aLine
-        //println(it)
-        println(aLine)
-        currentLine++
-
-        val oneExcelRow: ExcelRowData = createExcelRowData(aLine)
-        if (oneExcelRow.weekToken == "" && (oneExcelRow.dayToken == "" || oneExcelRow.dayToken == dayToken)) {
-            var oneDay: aDayScheculeData = aDayScheculeData(
-                oneExcelRow.lineId,
-                oneExcelRow.weekToken,
-                oneExcelRow.dayToken,
-                oneExcelRow.descriptionToken,
-                emptyArray()
-            )
-            dayArray += oneDay
-        } else {
-            //line counter back one
-            currentLine--
-        }
-    }
-    return dayArray
-}
-
-//fun getDayArrayForThisWeek(rowForThisWeek: Array<ExcelRowData>): Array<aDayScheculeData> {
-//    var aDayArray: Array<aDayScheculeData> = emptyArray()
-//}
-
 // DONE: 2021-08-22 - Create a function that returns an array of ExcelRowData for this week
-fun getExcelRowDataForThisWeek(weekToken: String, file: File): Array<ExcelRowData> {
+fun getExcelRowDataForThisWeek(weekToken: String, excelSheetIterator:  ): Array<ExcelRowData> {
     logger.info { "START getExcelRowDataForThisWeek \t weekToken: $weekToken"}
     var excelRowDataForThisWeek: Array<ExcelRowData> = emptyArray()
     file.forEachLine {aLine
@@ -174,3 +155,34 @@ fun createExcelRowData(aLine: String): ExcelRowData {
 
     return excelRowReturnvalue
 }
+
+
+// ******************
+// Parking lot; Can be removed later
+// ******************
+
+//fun getDayArrayForThisWeek(weekToken: String, dayToken: String, file: File): Array<aDayScheculeData> {
+//    var dayArray: Array<aDayScheculeData> = emptyArray()
+//    file.forEachLine {
+//        aLine
+//        //println(it)
+//        println(aLine)
+//        currentLine++
+//
+//        val oneExcelRow: ExcelRowData = createExcelRowData(aLine)
+//        if (oneExcelRow.weekToken == "" && (oneExcelRow.dayToken == "" || oneExcelRow.dayToken == dayToken)) {
+//            var oneDay: aDayScheculeData = aDayScheculeData(
+//                oneExcelRow.lineId,
+//                oneExcelRow.weekToken,
+//                oneExcelRow.dayToken,
+//                oneExcelRow.descriptionToken,
+//                emptyArray()
+//            )
+//            dayArray += oneDay
+//        } else {
+//            //line counter back one
+//            currentLine--
+//        }
+//    }
+//    return dayArray
+//}
