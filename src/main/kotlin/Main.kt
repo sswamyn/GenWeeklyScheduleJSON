@@ -27,15 +27,32 @@ fun main(args: Array<String>) {
         if (weekIdx <= idxOfWeeks.size) {
             //val rowsForThisWeek: Array<ExcelRowData> = excelSheet[idxOfWeeks[weekIdx] .. idxOfWeeks[(weekIdx + 1)]].toTypedArray()
             logger.debug { " weekIdx: $weekIdx \t weekIdx+1: ${weekIdx + 1} \t \t idxOfWeeks.size: ${idxOfWeeks.size} \t idxOfWeeks[weekIdx]: ${idxOfWeeks[weekIdx]}" }
-            val rowsForThisWeek: Array<ExcelRowData> = excelSheet.subList(weekIdx, weekIdx+1).toTypedArray()
-            logger.debug { " rowsForThisWeek.size: ${rowsForThisWeek.size} \t $weekIdx : ${weekIdx+1}" }
+            val rowsForThisWeek: Array<ExcelRowData> = excelSheet.subList(weekIdx, weekIdx + 1).toTypedArray()
+            logger.debug { " rowsForThisWeek.size: ${rowsForThisWeek.size} \t $weekIdx : ${weekIdx + 1}" }
 
+            var oneWeek: aWeekScheduleData =
+                aWeekScheduleData(rowsForThisWeek[0].lineId, rowsForThisWeek[0].weekToken, emptyArray())
+//
+            // When the iterator is passed as a parameter to a function, the iterator starts from the beginning!
+            oneWeek.dayArray = createAWeekScheduleData(rowsForThisWeek[0].weekToken, rowsForThisWeek).toTypedArray()
+            fullScheduleData += oneWeek
         }
         weekIdx++
-    } while (weekIdx < idxOfWeeks.size )
+    } while (weekIdx < idxOfWeeks.size)
 
 
+}
 
+fun createAWeekScheduleData(weekToken: String, rowsForThisWeek: Array<ExcelRowData>): MutableList<aDayScheculeData> {
+    var rtnListOfDaySchedule: MutableList<aDayScheculeData> = mutableListOf<aDayScheculeData>()
+    var dayIndex: MutableList<Int> = mutableListOf<Int>()
+    for (i in 0..rowsForThisWeek.size) {
+        if (rowsForThisWeek[i].dayToken != "") {
+            dayIndex.add(i)
+        }
+    }
+
+return rtnListOfDaySchedule
 }
 
 fun readFile() {
@@ -59,7 +76,7 @@ fun readFile() {
  * @param aLine
  * @return ExcelRowData
  */
-fun createExcelRowData(lineIdx : Int, aLine: String): ExcelRowData {
+fun createExcelRowData(lineIdx: Int, aLine: String): ExcelRowData {
     // Parse the comma separated values and use them to create Excel row data
     // convert a String to an Array using comma as a delimiter
     val aLineArray = aLine.toString().split(",").toTypedArray()
