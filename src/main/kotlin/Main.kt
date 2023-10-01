@@ -22,53 +22,97 @@ fun main(args: Array<String>) {
 
     //var fullScheduleData is the main output in the form of a Java object;
     //    Next Step(Final): Convert this to a JSON object
-    var fullScheduleData: Array<aWeekScheduleData> = emptyArray()
+    var fullScheduleData: Array<aWeekScheduleData> = emptyArray<aWeekScheduleData>()
     //var weekIdx: Int = 1
     var weekIdx: Int = 0
 
-    do {
-        if (weekIdx <= idxOfWeeks.size) {
-            //val rowsForThisWeek: Array<ExcelRowData> = excelSheet[idxOfWeeks[weekIdx] .. idxOfWeeks[(weekIdx + 1)]].toTypedArray()
-            val startExcelSheetIdx = idxOfWeeks[weekIdx].lineId
-            val endExcelSheetIdx = idxOfWeeks[weekIdx + 1].lineId
-            logger.debug { " startExcelSheetIdx: $startExcelSheetIdx \t endExcelSheetIdx : ${endExcelSheetIdx} \t \t idxOfWeeks.size: ${idxOfWeeks.size} \t idxOfWeeks[weekIdx]: ${idxOfWeeks[weekIdx]}" }
-            val rowsForThisWeek: Array<ExcelRowData> = excelSheet.subList(startExcelSheetIdx, endExcelSheetIdx).toTypedArray()
+    //do {
+    //  if (weekIdx <= idxOfWeeks.size) {
+    //val rowsForThisWeek: Array<ExcelRowData> = excelSheet[idxOfWeeks[weekIdx] .. idxOfWeeks[(weekIdx + 1)]].toTypedArray()
+    val startExcelSheetIdx = idxOfWeeks[weekIdx].lineId
+    val endExcelSheetIdx = idxOfWeeks[weekIdx + 1].lineId
+    logger.debug { " startExcelSheetIdx: $startExcelSheetIdx \t endExcelSheetIdx : ${endExcelSheetIdx} \t \t idxOfWeeks.size: ${idxOfWeeks.size} \t idxOfWeeks[weekIdx]: ${idxOfWeeks[weekIdx]}" }
+    val rowsForThisWeek: Array<ExcelRowData> = excelSheet.subList(startExcelSheetIdx, endExcelSheetIdx).toTypedArray()
 
-            logger.debug { " rowsForThisWeek.size: ${rowsForThisWeek.size} \t $weekIdx : ${weekIdx + 1}" }
+    logger.debug { " rowsForThisWeek.size: ${rowsForThisWeek.size} \t $weekIdx : ${weekIdx + 1}" }
+    //rowsForThisWeek.forEach {   println(it) }
 
-            rowsForThisWeek.forEach {   println(it) }
+    val oneWeek: aWeekScheduleData =
+        aWeekScheduleData(
+            rowsForThisWeek[0].lineId, rowsForThisWeek[0].weekToken, //emptyArray<aDayScheculeData>()
+            createAWeekScheduleData(
+                rowsForThisWeek[0].lineId,
+                rowsForThisWeek[0].weekToken,
+                rowsForThisWeek
+            ).toTypedArray()
+        )
 
-            var oneWeek: aWeekScheduleData =
-                aWeekScheduleData( rowsForThisWeek[0].lineId, rowsForThisWeek[0].weekToken, emptyArray() )
-//
+    // When the iterator is passed as a parameter to a function, the iterator starts from the beginning!
+    //oneWeek.dayArray = createAWeekScheduleData(rowsForThisWeek[0].weekToken)     //rowsForThisWeek[0].weekToken, rowsForThisWeek)
+    logger.debug { " oneWeek: $oneWeek" }
 
-            // When the iterator is passed as a parameter to a function, the iterator starts from the beginning!
-            oneWeek.dayArray = createAWeekScheduleData(rowsForThisWeek[0].weekToken, rowsForThisWeek).toTypedArray()
-            fullScheduleData += oneWeek
-        }
-        weekIdx++
-    } while (weekIdx < idxOfWeeks.size)
+    fullScheduleData += oneWeek //createAWeekScheduleData(rowsForThisWeek[0].weekToken)     //rowsForThisWeek[0].weekToken, rowsForThisWeek)
+    //}
+    //weekIdx++
+    //} while (weekIdx < idxOfWeeks.size)
 
 
 }
 
-fun createAWeekScheduleData(weekToken: String, rowsForThisWeek: Array<ExcelRowData>): MutableList<aDayScheculeData> {
+fun createAWeekScheduleData(
+    lineId: Int,
+    weekToken: String,
+    rowsForThisWeek: Array<ExcelRowData>
+): MutableList<aDayScheculeData> {
+
     var rtnListOfDaySchedule: MutableList<aDayScheculeData> = mutableListOf<aDayScheculeData>()
     var dayIndex: MutableList<Int> = mutableListOf<Int>()
     var daySchedulesForTheWeek: MutableList<aDayScheculeData> = mutableListOf<aDayScheculeData>()
     var sectionSchedulesForTheDay: MutableList<aSectionScheculeData> = mutableListOf<aSectionScheculeData>()
     var activitySchedulesForTheSecion: MutableList<aActivityData> = mutableListOf<aActivityData>()
 
-    for (i in 0.. rowsForThisWeek.size -1) {
-        var oneDay: aDayScheculeData
+    for (i in 0..rowsForThisWeek.size - 1) {
+        logger.debug("i: $i \t rowsForThisWeek[i].dayToken: ${rowsForThisWeek[i].dayToken}")
         if (rowsForThisWeek[i].dayToken != "") {
-            aDayScheculeData =
-                aDayScheculeData(rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
-                    rowsForThisWeek[i].descriptionToken, emptyArray()
-                )
-            daySchedulesForTheWeek += oneDay
+            var oneDaySchedule = aDayScheculeData(
+                rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+                rowsForThisWeek[i].descriptionToken, sectionSchedulesForTheDay.toTypedArray() //emptyArray()
+            )
+            dayIndex.add(i)
+            daySchedulesForTheWeek.add(oneDaySchedule)
         }
+        if(rowsForThisWeek[i].sectionToken != "") {
+            var oneSectionSchedule = aSectionScheculeData(
+                rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+                rowsForThisWeek[i].sectionToken, activitySchedulesForTheSecion.toTypedArray()
+            )
+            sectionSchedulesForTheDay.add(oneSectionSchedule)
+        }
+        if (rowsForThisWeek[i].activityToken != "") {
+            var oneActivitySchedule = aActivityData(
+                rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+                rowsForThisWeek[i].sectionToken, rowsForThisWeek[i].activityToken, rowsForThisWeek[i].setsToken,
+                rowsForThisWeek[i].repsToken
+            )
+            activitySchedulesForTheSecion.add(oneActivitySchedule)
+        }
+        rtnListOfDaySchedule.add(daySchedulesForTheWeek[i])
     }
+
+
+//        var oneDay = aDayScheculeData
+//
+//        var oneSection: aSectionScheculeData = aSectionScheculeData()
+//        var oneActivity: aActivityData = aActivityData()
+//        if (rowsForThisWeek[i].dayToken != "") {
+//            aDayScheculeData =
+//                aDayScheculeData(
+//                    rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+//                    rowsForThisWeek[i].descriptionToken, emptyArray()
+//                )
+//            daySchedulesForTheWeek += oneDay
+//        }
+//    }
 
     return rtnListOfDaySchedule
 }
@@ -77,7 +121,7 @@ fun readFile() {
     val file = File(fileNameStr)
     var lineIdx = 0
     for (line in file.readLines()) {
-        if(fileHasHeader && lineIdx == 0) {
+        if (fileHasHeader && lineIdx == 0) {
             fileHasHeader = false
             continue
         }

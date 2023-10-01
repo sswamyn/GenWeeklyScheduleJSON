@@ -1,8 +1,9 @@
 package Data
 
 data class aWeekScheduleData(
-    var lineId: Int,
-    var weekId: String,
+    var lineId: Int = 0,
+    var weekId: String = "",
+    //var dayArray: ArrayList<aDayScheculeData> = ArrayList<aDayScheculeData>()
     var dayArray: Array<aDayScheculeData> = emptyArray()
 
 //    var dayToken: String,
