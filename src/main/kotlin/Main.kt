@@ -1,13 +1,19 @@
 import Data.*
-import java.io.File
+import com.google.gson.Gson
+import com.google.gson.GsonBuilder
+import com.google.gson.JsonElement
+import com.google.gson.JsonParser
 import mu.KotlinLogging
+import java.io.File
+
 
 //var currentLine = 0
 var excelSheet = mutableListOf<ExcelRowData>()
 var idxOfWeeks = mutableListOf<ExcelRowData>()
 var fileHasHeader = true
 
-val fileNameStr = "src/main/resources/python/Training Schedule Definitions.csv"
+//val fileNameStr = "src/main/resources/python/Training Schedule Definitions.csv"
+val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy2.csv"
 private val logger = KotlinLogging.logger {}
 
 fun main(args: Array<String>) {
@@ -47,9 +53,28 @@ fun main(args: Array<String>) {
             ).toTypedArray()
         )
 
+    // Convert oneWeek to JSON using GSON library
+    val gson1 = Gson()
+    val jsonData = gson1.toJson(oneWeek)
+
+    val jsonElement: JsonElement = JsonParser().parse(
+        jsonData
+    )
+
+    val gson: Gson = GsonBuilder().setPrettyPrinting().create();
+    val json = gson.toJson(jsonElement)
+
+    File("src/main/resources/python/TrainingScheduleDefinitionscopy2.json").writeText(json)
+    //println(" JSON Version :\n " + json)
+    //logger.debug { " JSON Version :\n ${json}" }
+
+    // Print the JSON to file for testing
+    //File("src/main/resources/python/TrainingScheduleDefinitionscopy2.json").writeText(json)
+
+
     // When the iterator is passed as a parameter to a function, the iterator starts from the beginning!
     //oneWeek.dayArray = createAWeekScheduleData(rowsForThisWeek[0].weekToken)     //rowsForThisWeek[0].weekToken, rowsForThisWeek)
-    logger.debug { " oneWeek: $oneWeek" }
+//    logger.debug { " oneWeek: $oneWeek" }
 
     fullScheduleData += oneWeek //createAWeekScheduleData(rowsForThisWeek[0].weekToken)     //rowsForThisWeek[0].weekToken, rowsForThisWeek)
     //}
@@ -72,47 +97,53 @@ fun createAWeekScheduleData(
     var activitySchedulesForTheSecion: MutableList<aActivityData> = mutableListOf<aActivityData>()
 
     for (i in 0..rowsForThisWeek.size - 1) {
+        var newDay = false
+        var newSection = false
         logger.debug("i: $i \t rowsForThisWeek[i].dayToken: ${rowsForThisWeek[i].dayToken}")
+        var oneDaySchedule = aDayScheculeData()
+        var oneSectionSchedule = aSectionScheculeData()
+        var oneActivitySchedule = aActivityData()
         if (rowsForThisWeek[i].dayToken != "") {
-            var oneDaySchedule = aDayScheculeData(
+            newDay = true
+            oneDaySchedule = aDayScheculeData(
                 rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
                 rowsForThisWeek[i].descriptionToken, sectionSchedulesForTheDay.toTypedArray() //emptyArray()
             )
             dayIndex.add(i)
             daySchedulesForTheWeek.add(oneDaySchedule)
+        } else {
+            newDay = false
         }
-        if(rowsForThisWeek[i].sectionToken != "") {
-            var oneSectionSchedule = aSectionScheculeData(
+        if (rowsForThisWeek[i].sectionToken != "") {
+            newSection = true
+            oneSectionSchedule = aSectionScheculeData(
                 rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
                 rowsForThisWeek[i].sectionToken, activitySchedulesForTheSecion.toTypedArray()
             )
             sectionSchedulesForTheDay.add(oneSectionSchedule)
+            daySchedulesForTheWeek.last().sectionArray += sectionSchedulesForTheDay //[i] = oneSectionSchedule
+        } else {
+            newSection = false
         }
+
         if (rowsForThisWeek[i].activityToken != "") {
-            var oneActivitySchedule = aActivityData(
+            oneActivitySchedule = aActivityData(
                 rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
                 rowsForThisWeek[i].sectionToken, rowsForThisWeek[i].activityToken, rowsForThisWeek[i].setsToken,
                 rowsForThisWeek[i].repsToken
             )
             activitySchedulesForTheSecion.add(oneActivitySchedule)
+            daySchedulesForTheWeek.last().sectionArray.last().activityArray += activitySchedulesForTheSecion //[i] = oneActivitySchedule
         }
-        rtnListOfDaySchedule.add(daySchedulesForTheWeek[i])
+        if (newDay) {
+            rtnListOfDaySchedule.add(oneDaySchedule)
+        } else if (newSection) {
+            rtnListOfDaySchedule.removeLast()
+            rtnListOfDaySchedule.add(daySchedulesForTheWeek.last())
+        }
+
     }
-
-
-//        var oneDay = aDayScheculeData
-//
-//        var oneSection: aSectionScheculeData = aSectionScheculeData()
-//        var oneActivity: aActivityData = aActivityData()
-//        if (rowsForThisWeek[i].dayToken != "") {
-//            aDayScheculeData =
-//                aDayScheculeData(
-//                    rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
-//                    rowsForThisWeek[i].descriptionToken, emptyArray()
-//                )
-//            daySchedulesForTheWeek += oneDay
-//        }
-//    }
+    //rtnListOfDaySchedule. //add(daySchedulesForTheWeek[i])
 
     return rtnListOfDaySchedule
 }
