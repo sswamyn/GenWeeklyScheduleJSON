@@ -13,7 +13,7 @@ var idxOfWeeks = mutableListOf<ExcelRowData>()
 var fileHasHeader = true
 
 //val fileNameStr = "src/main/resources/python/Training Schedule Definitions.csv"
-val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy3.csv"
+val fileNameStr = "src/main/resources/python/TrainingScheduleDefinitionscopy4.csv"
 private val logger = KotlinLogging.logger {}
 
 fun main(args: Array<String>) {
@@ -84,11 +84,7 @@ fun main(args: Array<String>) {
 
 }
 
-fun createAWeekScheduleData(
-    lineId: Int,
-    weekToken: String,
-    rowsForThisWeek: Array<ExcelRowData>
-): MutableList<aDayScheculeData> {
+fun createAWeekScheduleData(lineId: Int, weekToken: String, rowsForThisWeek: Array<ExcelRowData>): MutableList<aDayScheculeData> {
 
     var rtnListOfDaySchedule: MutableList<aDayScheculeData> = mutableListOf<aDayScheculeData>()
     var dayIndex: MutableList<Int> = mutableListOf<Int>()
@@ -97,13 +93,16 @@ fun createAWeekScheduleData(
 
     // Since we have the data for one week, let us create the WeekScheduleData object
     var oneDaySchedule: aDayScheculeData = aDayScheculeData()
+    var oneSectionSchedule: aSectionScheculeData = aSectionScheculeData()
+    var oneActivitySchedule: aActivityData = aActivityData()
 
-
-    for (i in 0..rowsForThisWeek.size - 1) {
+    //for (i in rowsForThisWeek.indices) {
+    for (i in 0 until rowsForThisWeek.size) {
         var newDay = false
         var newSection = false
         var newActivity = false
-
+        var oneSectionSchedule: aSectionScheculeData
+        var oneActivitySchedule: aActivityData
 
         logger.debug("i: $i \t rowsForThisWeek[i].dayToken: ${rowsForThisWeek[i].dayToken}")
         if (rowsForThisWeek[i].dayToken != "") {
@@ -115,107 +114,103 @@ fun createAWeekScheduleData(
                 rowsForThisWeek[i].descriptionToken,
                 sectionSchedulesForTheDay.toTypedArray() //emptyArray()
             )
-
-            oneDaySchedule = aDayScheculeData()
-            var oneSectionSchedule = aSectionScheculeData()
-            var oneActivitySchedule = aActivityData()
-            if (rowsForThisWeek[i].dayToken != "") {
-                newDay = true
-                oneDaySchedule = aDayScheculeData(
-                    rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
-                    rowsForThisWeek[i].descriptionToken, sectionSchedulesForTheDay.toTypedArray() //emptyArray()
-                )
-                dayIndex.add(i)
-                daySchedulesForTheWeek.add(oneDaySchedule)
-            } else {
-                newDay = false
-            }
-            if (rowsForThisWeek[i].sectionToken != "") {
-                newSection = true
-                activitySchedulesForTheSecion.removeAll(activitySchedulesForTheSecion)
-                sectionSchedulesForTheDay.removeAll(sectionSchedulesForTheDay)
-                oneSectionSchedule = aSectionScheculeData(
-                    rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
-                    rowsForThisWeek[i].sectionToken, activitySchedulesForTheSecion.toTypedArray()
-                )
-                sectionSchedulesForTheDay.add(oneSectionSchedule)
-                daySchedulesForTheWeek.last().sectionArray += sectionSchedulesForTheDay //[i] = oneSectionSchedule
-            } else {
-                newSection = false
-            }
-
-            if (rowsForThisWeek[i].activityToken != "") {
-                oneActivitySchedule = aActivityData(
-                    rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
-                    rowsForThisWeek[i].sectionToken, rowsForThisWeek[i].activityToken, rowsForThisWeek[i].setsToken,
-                    rowsForThisWeek[i].repsToken
-                )
-                //activitySchedulesForTheSecion.add(oneActivitySchedule)
-                //daySchedulesForTheWeek.last().sectionArray.last().activityArray += activitySchedulesForTheSecion //[i] = oneActivitySchedule
-                daySchedulesForTheWeek.last().sectionArray.last().activityArray += oneActivitySchedule //[i] = oneActivitySchedule
-            }
-            if (newDay) {
-                rtnListOfDaySchedule.add(oneDaySchedule)
-            } else if (newSection) {
-                rtnListOfDaySchedule.removeLast()
-                rtnListOfDaySchedule.add(daySchedulesForTheWeek.last())
-            } else {
-                //rtnListOfDaySchedule.removeLast()
-                rtnListOfDaySchedule.add(daySchedulesForTheWeek.last())
-            }
-
-        }
-        //rtnListOfDaySchedule. //add(daySchedulesForTheWeek[i])
-
-        return rtnListOfDaySchedule
+            // Create and add the Section schedule object & Activity schedule object for the "Day line "
+            oneSectionSchedule = aSectionScheculeData()
+            oneActivitySchedule = aActivityData()
+            oneDaySchedule = aDayScheculeData(
+                rowsForThisWeek[i].lineId, "", "", // rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+                rowsForThisWeek[i].sectionToken, sectionSchedulesForTheDay.toTypedArray() //emptyArray()
+            )
+        } else
+            newDay = false
     }
-
-    fun readFile() {
-        val file = File(fileNameStr)
-        var lineIdx = 0
-        for (line in file.readLines()) {
-            if (fileHasHeader && lineIdx == 0) {
-                fileHasHeader = false
-                continue
-            }
-            logger.debug { "Line read : $line" }
-            val excelData = createExcelRowData(lineIdx, line)
-            excelSheet.add(excelData)
-            lineIdx = excelSheet.indexOf(excelData)
-            excelData.lineId = lineIdx
-            excelSheet[lineIdx].lineId = lineIdx   //update(lineIdx, excelData)
-            // While at it let us also create a indexes of weeks
-            if (excelData.weekToken != "") {
-                idxOfWeeks.add(excelData)
-            }
-            lineIdx++
-        }
-        //excelSheet.removeAt(0)
-        //idxOfWeeks.removeAt(0)
-        logger.debug { "Numbers of lines read from $fileNameStr in to the list is ${excelSheet.size}" }
-    }
-
-    /**
-     * Create an ExcelRowData object from a line of text
-     * @param aLine
-     * @return ExcelRowData
-     */
-    fun createExcelRowData(lineIdx: Int, aLine: String): ExcelRowData {
-        // Parse the comma separated values and use them to create Excel row data
-        // convert a String to an Array using comma as a delimiter
-        val aLineArray = aLine.toString().split(",").toTypedArray()
-        //println(aLineArray[0])
-        var excelRowReturnvalue = ExcelRowData(
-            lineIdx,
-            aLineArray[0],
-            aLineArray[1],
-            aLineArray[2],
-            aLineArray[3],
-            aLineArray[4],
-            aLineArray[5],
-            aLineArray[6],
-            aLineArray[7]
+    if (rowsForThisWeek[i].sectionToken != "") {
+        newSection = true
+        activitySchedulesForTheSecion.removeAll(activitySchedulesForTheSecion)
+        sectionSchedulesForTheDay.removeAll(sectionSchedulesForTheDay)
+        oneSectionSchedule = aSectionScheculeData(
+            rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+            rowsForThisWeek[i].sectionToken, activitySchedulesForTheSecion.toTypedArray()
         )
-
-        return excelRowReturnvalue
+        sectionSchedulesForTheDay.add(oneSectionSchedule)
+        daySchedulesForTheWeek.last().sectionArray += sectionSchedulesForTheDay //[i] = oneSectionSchedule
+    } else {
+        newSection = false
     }
+
+    if (rowsForThisWeek[i].activityToken != "") {
+        oneActivitySchedule = aActivityData(
+            rowsForThisWeek[i].lineId, rowsForThisWeek[i].weekToken, rowsForThisWeek[i].dayToken,
+            rowsForThisWeek[i].sectionToken, rowsForThisWeek[i].activityToken, rowsForThisWeek[i].setsToken,
+            rowsForThisWeek[i].repsToken
+        )
+        //activitySchedulesForTheSecion.add(oneActivitySchedule)
+        //daySchedulesForTheWeek.last().sectionArray.last().activityArray += activitySchedulesForTheSecion //[i] = oneActivitySchedule
+        daySchedulesForTheWeek.last().sectionArray.last().activityArray += oneActivitySchedule //[i] = oneActivitySchedule
+    }
+    if (newDay) {
+        rtnListOfDaySchedule.add(oneDaySchedule)
+    } else if (newSection) {
+        rtnListOfDaySchedule.removeLast()
+        rtnListOfDaySchedule.add(daySchedulesForTheWeek.last())
+    } else {
+        //rtnListOfDaySchedule.removeLast()
+        rtnListOfDaySchedule.add(daySchedulesForTheWeek.last())
+    }
+
+}
+//rtnListOfDaySchedule. //add(daySchedulesForTheWeek[i])
+
+//return rtnListOfDaySchedule
+
+
+
+fun readFile() {
+    val file = File(fileNameStr)
+    var lineIdx = 0
+    for (line in file.readLines()) {
+        if (fileHasHeader && lineIdx == 0) {
+            fileHasHeader = false
+            continue
+        }
+        logger.debug { "Line read : $line" }
+        val excelData = createExcelRowData(lineIdx, line)
+        excelSheet.add(excelData)
+        lineIdx = excelSheet.indexOf(excelData)
+        excelData.lineId = lineIdx
+        excelSheet[lineIdx].lineId = lineIdx   //update(lineIdx, excelData)
+        // While at it let us also create a indexes of weeks
+        if (excelData.weekToken != "") {
+            idxOfWeeks.add(excelData)
+        }
+        lineIdx++
+    }
+    //excelSheet.removeAt(0)
+    //idxOfWeeks.removeAt(0)
+    logger.debug { "Numbers of lines read from $fileNameStr in to the list is ${excelSheet.size}" }
+}
+
+/**
+ * Create an ExcelRowData object from a line of text
+ * @param aLine
+ * @return ExcelRowData
+ */
+fun createExcelRowData(lineIdx: Int, aLine: String): ExcelRowData {
+    // Parse the comma separated values and use them to create Excel row data
+    // convert a String to an Array using comma as a delimiter
+    val aLineArray = aLine.toString().split(",").toTypedArray()
+    //println(aLineArray[0])
+    var excelRowReturnvalue = ExcelRowData(
+        lineIdx,
+        aLineArray[0],
+        aLineArray[1],
+        aLineArray[2],
+        aLineArray[3],
+        aLineArray[4],
+        aLineArray[5],
+        aLineArray[6],
+        aLineArray[7]
+    )
+
+    return excelRowReturnvalue
+}
